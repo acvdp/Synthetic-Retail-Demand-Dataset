@@ -1,7 +1,7 @@
 # Synthetic-Retail-Demand-Dataset
 Synthetic Retail Demand Dataset for the Comparative Evaluation of Time Series Forecasting Models
 
-@incollection{Valcárcel-del-Pozo2025,
+@incollection{Valcárcel-del-Pozo2025,  
 author = {Valcárcel-del-Pozo, Aida C. and Villarrubia González, Gabriel and Lozano Murciego, Álvaro},  
 title = {Comparative Evaluation of Time Series Forecasting Models on a Synthetic Retail Demand Dataset},  
 booktitle = {New Trends in Disruptive Technologies, Tech Ethics and Artificial Intelligence. DiTTET 2025},  
